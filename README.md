@@ -3,10 +3,10 @@
 ## Description
 
 "My Personal Blog" is a two-page website that allows users to add and view blog posts. With a heavy focus on JavaScript, this website contains a field to submit your blog posts, having them dynamically rendered on the second page. It also gives the option to select light / dark mode, as well as 'Go Back' to the first page, so that you can continue to submit more posts. The purpose of creating this project was primarily to reinforce JavaScript concepts including some of the following. 
--Using localStorage.setItem() to store the blog post data in localStorage
--Redirecting the user to the posts page using window.location.href
--Retrieving the blog post data from localStorage using localStorage.getItem().
--etc.
+*Using localStorage.setItem() to store the blog post data in localStorage
+*Redirecting the user to the posts page using window.location.href
+*Retrieving the blog post data from localStorage using localStorage.getItem().
+*etc.
 
 The following is an image of what one may see upon opening the website:
 
