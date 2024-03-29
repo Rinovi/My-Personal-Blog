@@ -1,0 +1,72 @@
+header {
+    background: black;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+}
+
+.toggle-buttons {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #333;
+    padding: 5px 10px;
+    border: 1px solid #333;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.toggle-buttons:hover {
+    background-color: #ccc;
+}
+
+.blog-post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.blog-post h2 {
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-bottom: 5px;
+}
+
+.blog-post p {
+    font-size: 17px;
+}
+
+.blog-post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.blog-post:hover {
+    background-color: rgb(207, 207, 207);
+}
+
+.blog-post {
+    cursor: pointer;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    border-top: #fff 5px;
+}
